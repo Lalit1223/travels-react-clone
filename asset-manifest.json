@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/travels-react-clone/static/css/main.62bae18a.css",
+    "main.js": "/travels-react-clone/static/js/main.a3e67787.js",
+    "static/js/453.50cd8e2c.chunk.js": "/travels-react-clone/static/js/453.50cd8e2c.chunk.js",
+    "static/media/dubai.jpg": "/travels-react-clone/static/media/dubai.44ddcf4f035f8afd5e41.jpg",
+    "static/media/Air.gif": "/travels-react-clone/static/media/Air.e29bafebf1d5de640651.gif",
+    "static/media/nethjpg.jpg": "/travels-react-clone/static/media/nethjpg.4edce78031a0bb7c562b.jpg",
+    "static/media/japan.jpg": "/travels-react-clone/static/media/japan.27d9756c4cd671632d0a.jpg",
+    "static/media/Switzerland.jpeg": "/travels-react-clone/static/media/Switzerland.94446f584d8e1f6d5d8a.jpeg",
+    "static/media/italy.jpg": "/travels-react-clone/static/media/italy.9fd63ce309c3d74ddda5.jpg",
+    "static/media/france.jpg": "/travels-react-clone/static/media/france.0056be859615687c10e8.jpg",
+    "static/media/background.jpg": "/travels-react-clone/static/media/background.da09f76aa334364962e1.jpg",
+    "static/media/travel-5360_256.gif": "/travels-react-clone/static/media/travel-5360_256.4abaac6a9ede3663e451.gif",
+    "static/media/kashmir.png": "/travels-react-clone/static/media/kashmir.40642c43d8fcb6840c1f.png",
+    "static/media/sing.jpg": "/travels-react-clone/static/media/sing.08955e177d3a947c20da.jpg",
+    "static/media/index.cjs": "/travels-react-clone/static/media/index.1282334337c6cac7deca.cjs",
+    "static/media/logo.svg": "/travels-react-clone/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/travels-react-clone/index.html",
+    "main.62bae18a.css.map": "/travels-react-clone/static/css/main.62bae18a.css.map",
+    "main.a3e67787.js.map": "/travels-react-clone/static/js/main.a3e67787.js.map",
+    "453.50cd8e2c.chunk.js.map": "/travels-react-clone/static/js/453.50cd8e2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62bae18a.css",
+    "static/js/main.a3e67787.js"
+  ]
+}
