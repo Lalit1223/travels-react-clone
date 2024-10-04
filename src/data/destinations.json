@@ -1,0 +1,46 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Italy",
+            "image": "./images/italy.jpg",
+            "description": "Experience the romance and history of Italy. From the Colosseum to the canals of Venice."
+        },
+        {
+            "id": 2,
+            "name": "France",
+            "image": "./images/france.jpg",
+            "description": "Discover the charm of France, from the Eiffel Tower to the countryside of Provence."
+        },
+        {
+            "id": 3,
+            "name": "Dubai",
+            "image": "./images/dubai.jpg",
+            "description": "Explore the luxury and innovation of Dubai, a city of endless possibilities."
+        },
+        {
+            "id": 4,
+            "name": "Singapore",
+            "image": "./images/sing.jpg",
+            "description": "Experience the vibrant culture and futuristic skyline of Singapore."
+        },
+        {
+            "id": 5,
+            "name": "Japan",
+            "image": "./images/japan.jpg",
+            "description": "Immerse yourself in the traditions and modern wonders of Japan."
+        },
+        {
+            "id": 6,
+            "name": "Switzerland",
+            "image": "./images/Switzerland.jpeg",
+            "description": "Enjoy the stunning landscapes and serene beauty of Switzerland."
+        },
+        {
+            "id": 7,
+            "name": "Netherlands",
+            "image": "./images/nethjpg.jpg",
+            "description": "Discover the picturesque canals and vibrant cities of the Netherlands."
+        }
+    ]
+}
